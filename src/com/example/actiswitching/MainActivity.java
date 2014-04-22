@@ -65,7 +65,7 @@ public class MainActivity extends ActionBarActivity {
 
 				total = num1 + num2;
 				
-				
+				//This line is now new
 				//mText = (TextView)findViewById(R.id.textView3); //Remove for final code ------------
 				//mText.setText("Total is: "+total);				//Remove for final code ------------
 				
